@@ -1,0 +1,129 @@
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\x86\tesseract41.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\x64\tesseract41.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\IronOcr.Native.deployment.json
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\IronOcr.Native.deployment.json
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\OcrData\Finnish.ocrdata
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\OCRTesting.exe.config
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\OCRTesting.exe
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\OCRTesting.pdb
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\IronOcr.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\Tesseract.dll
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\bin\Debug\IronOcr.xml
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.csproj.AssemblyReference.cache
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.csproj.CoreCompileInputs.cache
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.csproj.CopyComplete
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.exe
+C:\Users\Santeri Pikkarainen\source\repos\OCRTesting\OCRTesting\obj\Debug\OCRTesting.pdb
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\x86\tesseract41.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\x64\tesseract41.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\IronOcr.Native.deployment.json
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\IronOcr.Native.deployment.json
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\OcrData\Finnish.ocrdata
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\OCRTesting.exe.config
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\OCRTesting.exe
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\OCRTesting.pdb
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\IronOcr.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\Tesseract.dll
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\bin\Debug\IronOcr.xml
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.csproj.CopyComplete
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.exe
+C:\Users\Käyttäjä\source\repos\Vittu\OCRTesting\obj\Debug\OCRTesting.pdb
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\x86\tesseract41.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\x64\tesseract41.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\OcrData\Finnish.ocrdata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\IronOcr.Native.deployment.json
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\IronOcr.Native.deployment.json
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.traineddata
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\OCRTesting.exe.config
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\OCRTesting.exe
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\OCRTesting.pdb
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\IronOcr.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\Tesseract.dll
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\bin\Debug\IronOcr.xml
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.csproj.CopyComplete
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.exe
+C:\Users\Käyttäjä\source\repos\jeejeevikarojekti\OCRTesting\obj\Debug\OCRTesting.pdb

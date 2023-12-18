@@ -1,0 +1,309 @@
+X Oy, 0000000-0
+
+TULOSLASKELMA
+
+TULOSLASKELMA
+Myyntituotot
+Yleiset myyntitilit
+3000 Myynti
+Myynti, arvopaperit ja kiinteistöt
+3460 Arvopapereiden myynti
+LIIKEVAIHTO
+Liiketoiminnan muut tuotot
+3770 Vuokratuotot henkilöstön virkistystiloista
+3780 Vuokratuotot koneista ja kalustosta
+3790 Muut vuokratuotot
+3850 Työvoiman vuokraustuotot
+Materiaalit ja palvelut
+Aineet, tarvikkeet ja tavarat
+Ostot tilikauden aikana
+Aine-, tarvike- ja tavaraostot
+4070 Ostot välitysmyynti
+4800 Poltto- ja voiteluaineet
+4801 Korjaus ja huolto
+4802 Renkaat
+4803 Terät ja ketjut
+4806 Käyttöaineet ja tarvikkeet
+4813 Voiteluaineet
+Ostojen oikaisuerät
+4390 Muut ostojen oikaisuerät, edelleen veloitus
+Varastojen lisäys (+) tai vähennys (-)
+4400 Aine- ja tarvikevaraston muutos
+Ulkopuoliset palvelut
+4450 Alihankinta 1
+4805 Kuljetuskulut
+4808 Koneiden siirtokulut
+Materiaalit ja palvelut yhteensä
+BRUTTOTULOS
+Henkilöstökulut
+Palkat ja palkkiot
+Työntekijöiden palkat ja palkkiot
+Työssäoloajan normaalipalkat
+4500 Muuttuvat palkat (MUKU)
+Lisät ja korvaukset
+4540 Työaikalisät
+
+Arkistoviite: 000
+
+Tilinpäätös 1.10.2018 - 30.9.2019
+
+1.10.2018 - 30.9.2019
+
+1.10.2017 - 30.9.2018
+
+658 347,81 799 340,40
+0,00 3 741,97
+
+658 347,81 803 082,37
+3 000,00 2 350,00
+
+21 600,00 21 670,00
+70,00 0,00
+
+83 860,00 24 174,75
+0,00 -156 673,92
+
+-33 082,89 -24 746,62
+-113 780,01 -62 019,08
+-436,12 -493,58
+
+-12 749,00 -3 950,30
+-2 021,40 -1 414,51
+
+-1 235,83 -1 086,92
+
+7 273,88 0,00
+-60 000,00 -165 000,00
+-124 718,96 -145 408,48
+-3 916,00 -9 438,00
+
+-1 892,00 -270,00
+-346 558,33 -570 501,41
+420 319,48 280 775,71
+-100 905,10 -97 003,78
+-3 075,14 -4 625,54
+
+1
+
+
+
+X Oy, 0000000-0
+
+TULOSLASKELMA
+
+4552 Sunnuntaityö (MUKU)
+Loma-ajan ja sosiaalipalkat
+4550 Vuosilomapalkat (MUKU)
+4551 Lomarahat (MUKU)
+4559 Lomapalkkojen jaksotus (MUKU)
+4560 TES-Vapaat
+4580 Sairausajan palkat
+Henkilösivukulut
+Eläkekulut
+Eläkevakuutusmaksut
+4610 Tyel-maksut (MUKU)
+4619 Perityt Tyel-maksut (MUKU)
+6240 Vapaaehtoiset eläkevakuutusmaksut
+Muut henkilösivukulut
+Sosiaaliturvamaksut
+4650 Sosiaaliturvamaksut (MUKU)
+Pakolliset vakuutusmaksut
+4660 Tapaturmavakuutusmaksut (MUKU)
+4670 Työttömyysvakuutusmaksut (MUKU)
+4679 Peirtyt tyött. vakuutusmaksut
+4680 Ryhmähenkivakuutusmaksut (MUKU)
+Muut henkilöstön vakuutusmaksut
+6501 Laskennalliset sos.kulut
+Henkilöstökulut yhteensä
+Poistot ja arvonalentumiset
+Suunnitelman mukaiset poistot
+6850 Poisto muista pitkävaikutteisista menoista
+6860 Poisto rakennuksista ja rakennelmista
+6870 Poisto koneista ja kalustosta
+6890 Poisto muista aineellisista hyödykkeistä
+Poistot ja arvonalentumiset yhteensä
+Liiketoiminnan muut kulut
+Vapaaehtoiset henkilösivukulut
+7040 Loma-asuntojen hoitokulut
+7050 Työterveyshuolto
+7120 Työvaatteet
+Toimitilakulut
+4811 Puhtaanapito
+4844 Työmaan sähkö
+7200 Maa-aluevuokrat
+
+Arkistoviite: 000
+
+Tilinpäätös 1.10.2018 - 30.9.2019
+
+1.10.2018 - 30.9.2019
+
+1.10.2017 - 30.9.2018
+
+-982,37 -3 557,43
+
+-11 786,60 -10 130,16
+-6 547,38 -5 233,95
+-114,03 -1 127,13
+
+-6 650,96 -4 910,00
+-350,64 -550,72
+
+-29 695,47 -30 861,76
+9. 689,00 8 931,07
+
+-2 578,89 -2 578,89
+-1 028,55 -1 132,65
+-5 196,53 -4 946,02
+-2 675,92 -2 905,89
+
+2 066,75 2 327,47
+-116,04 -93,71
+62,22 447,44
+
+-159 885,65 -157 951,65
+-4 070,68 -20 999,52
+-1 569,16 0,00
+-106 975,67 -107 229,61
+0,00 -1 961,40
+
+-112 615,51 -130 190,53
+-496,32 -99,80
+0,00 -1 158,20
+-120,00 0,00
+0,00 -111,94
+
+-32 117,28 -22 148,77
+-8 801,16 -7 821,84
+
+2
+
+
+
+X Oy, 0000000-0 Tilinpäätös 1.10.2018 - 30.9.2019
+
+TULOSLASKELMA
+1.10.2018 - 30.9.2019 1.10.2017 - 30.9.2018
+7230 Toimitilavuokrat -24 288,00 -24 288,00
+7310 Muut vuokrat ja vastikkeet -380,00 -380,00
+7311 Vastike AsOy B 1 -3 325,18 -3 716,72
+7350 Ulkoalueiden hoito 0,00 -335,28
+7360 Siivous ja puhtaanapito -2 088,50 -1 828,50
+7380 Vesi ja jätevesi -83,58 -55,72
+7390 Sähkö ja kaasu -1 636,46 -2 284,19
+7400 Jätehuolto -270,87 -91,56
+7410 Vahinkovakuutukset -25 561,82 -17 058,28
+7420 Kiinteistövero -34,44 -34,44
+Ajoneuvokulut
+7530 Ajoneuvojen polttoaine -638,95 -4 165,12
+7540 Ajoneuvojen huolto ja korjaus 0,00 -462,38
+7560 Ajoneuvojen julkiset maksut -2 016,01 -1 920,99
+7570 Ajoneuvovakuutukset -139,06 -347,67
+Matkakulut
+4774 Päivärahat -77,00 -124,45
+Edustuskulut
+7950 Edustustilaisuudet 0,00 -303,90
+Tutkimus- ja kehityskulut
+8330 Sertifiointi ja laatutodistukset -1 477,00 -1 927,10
+Hallintopalvelut
+8380 Taloushallintopalvelut -36 428,07 -39 661,44
+8390 Tilintarkastuspalvelut -720,00 -700,00
+8430 Muut hallintopalvelut -2 047,01 0,00
+8440 Viranomaismaksut 0,00 -70,00
+Muut hallintokulut
+8450 Kirjat -385,90 -43,90
+8460 Lehdet -48,18 -AT,27
+8480 Jäsenmaksut -3 578,78 -3 425,04
+8500 Puhelinkulut 0,00 -480,00
+8540 Posti- ja lähettikulut -481,93 -133,70
+8560 Rahaliikenteen kulut -1358,93 -1 102,53
+8570 Pyöristyserot 0,06 0,00
+8580 Vastuuvakuutukset -741,02 -906,20
+8630 Lomakkeet ja painatuskulut -110,86 0,00
+8690 Saadut hallintokulukorvaukset 3 356,90 7 727,91
+Liiketoiminnan muut kulut yhteensä -146 095,35 -129 507,02
+LIIKEVOITTO (-TAPPIO) 1 722,97 -136 873,49
+
+Rahoitustuotot ja -kulut
+
+Arkistoviite: 000 3
+
+
+
+X Oy, 0000000-0
+
+TULOSLASKELMA
+
+Muut korko- ja rahoitustuotot
+Muilta
+9190 Korkotuotot lainasaamisista
+9240 Palautettava yhteisökorko/palautuskorko
+9270 Osinkotuotot rahoitusarvopapereista
+9280 Muut tuotot rahoitusarvopapereista
+
+Arvonalentumiset vaihtuvien vastaavien
+rahoitusarvopapereista
+
+9400 Muiden rahoitusarvopapereiden arvonalentumiset
+Korkokulut ja muut rahoituskulut
+Muille
+9460 Korkokulut rahoituslaitoslainoista
+9490 Korkokulut ostoveloista
+9530 Maksettava yhteisökorko / jäännösveron korko
+9540 Verojen viivästysseuraamukset
+9560 Lainojen hoitokulut
+9670 Muut kulut rahoitusarvopapereista
+TULOS ENNEN TILINPÄÄTÖSSIIRTOJA JA VEROJA
+Tuloverot
+Tilikauden ja aikaisempien tilikausien verot
+9930 Lähdeverot
+TILIKAUDEN VOITTO (TAPPIO)
+
+Arkistoviite: 000
+
+Tilinpäätös 1.10.2018 - 30.9.2019
+
+1.10.2018 - 30.9.2019
+
+2 700,00
+
+17,19
+6 975,49
+2 988,71
+
+-1481,88
+
+-1374,53
+-60,13
+-2,52
+-24,04
+-394,15
+-10 227,43
+839,68
+
+-38,01
+801,67
+
+1.10.2017 - 30.9.2018
+
+2 700,00
+62,58
+
+6 332,92
+84 064,99
+
+-11 552,04
+
+-49,02
+0,00
+
+0,00
+
+0,00
+-16,00
+
+-17 647,73
+-72 977,79
+
+-393,51
+-73 371,30
